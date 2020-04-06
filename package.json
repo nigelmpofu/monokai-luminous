@@ -36,7 +36,7 @@
             {
                 "label": "Monokai Luminous",
                 "uiTheme": "vs-dark",
-                "path": "./theme/monokai-luminous-theme.json"
+                "path": "./theme/monokai_luminous-color-theme.json"
             }
         ]
     }
