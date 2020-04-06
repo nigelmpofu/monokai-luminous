@@ -1,0 +1,43 @@
+{
+    "name": "monokai-luminous",
+    "displayName": "Monokai Luminous",
+    "description": "A very dark and overly vibrant Monokai theme with italicized keywords.",
+    "version": "0.1.0",
+    "publisher": "nigelvm",
+    "icon": "images/icon.png",
+    "author": "Nigel Mpofu <nigel@nigelvm.com>",
+    "license": "MIT",
+    "galleryBanner": {
+        "color": "#F5B800"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/nigelmpofu/monokai-luminous.git"
+    },
+    "bugs": {
+        "url": "https://github.com/nigelmpofu/monokai-luminous/issues"
+    },
+    "homepage": "https://github.com/nigelmpofu/monokai-luminous/blob/master/README.md",
+    "engines": {
+        "vscode": "^1.15.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "Dark",
+        "Theme",
+        "Vibrant",
+        "Monokai",
+        "Luminous"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Monokai Luminous",
+                "uiTheme": "vs-dark",
+                "path": "./theme/monokai-luminous-theme.json"
+            }
+        ]
+    }
+}
