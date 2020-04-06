@@ -1,6 +1,9 @@
 # Change Log
 All notable changes to the "monokai-luminous" theme will be documented in this file.
 
+## 0.3.1
+- Fix typo in package.json
+
 ## 0.3.0
 - Update directory structure
 - Update package.json

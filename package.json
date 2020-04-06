@@ -2,7 +2,7 @@
     "name": "monokai-luminous",
     "displayName": "Monokai Luminous",
     "description": "A very dark and overly vibrant Monokai theme with italicized keywords.",
-    "version": "0.3.0",
+    "version": "0.3.1",
     "publisher": "nigelvm",
     "icon": "images/icon.png",
     "author": "Nigel Mpofu <nigel@nigelvm.com>",
@@ -36,7 +36,7 @@
             {
                 "label": "Monokai Luminous",
                 "uiTheme": "vs-dark",
-                "path": "./theme/monokai_luminous-color-theme.json"
+                "path": "./themes/monokai_luminous-color-theme.json"
             }
         ]
     }
